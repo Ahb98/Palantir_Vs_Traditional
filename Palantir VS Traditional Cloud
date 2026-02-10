@@ -13,18 +13,20 @@ compute, orchestration, governance, and analytics.
 
 ## Overview
 Modern data platforms aim to solve:
-Data ingestion
-Transformation
-Governance
-Lineage
-Security
-Analytics
-Operational use cases
+- Data ingestion
+- Transformation
+- Governance
+- Lineage
+- Security
+- Analytics
+- Operational use cases
+
 Two dominant approaches exist:
-Approach A — Palantir Foundry
+- Approach A — Palantir Foundry
 Platform-driven, dataset-centric, tightly integrated.
-Approach B — Traditional Cloud Data Platforms
+- Approach B — Traditional Cloud Data Platforms
 Service-driven, tool-centric, loosely integrated.
+
 This document compares both across architecture, pipeline development, governance, security, and operational usage.
 
 
